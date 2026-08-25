@@ -1,2 +1,2 @@
 ### 視覚探索デモ
- * [視覚探索デモ](docs/VSdemo/index.html)
+ * [視覚探索デモ](./VSdemo/index.html)
